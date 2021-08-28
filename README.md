@@ -1,22 +1,27 @@
-Aufgabenstellung
+# day41_Lev1_2_js-vertiefung_conditional-statements-air-quality
 
-Erstelle ein HTML-Formular um mit einem Range-Slider die Luft-Qualität(AQI:air-quality-index) in einem Bereich von 0 bis 150 anzuzeigen.
-Das Ergebnis soll in HTMl ausgegeben werden und dazu soll jeweils die Hintergrundfarbe vom body angepasst werden.
+**CodeFlow Übung lev1_2: conditional-statements-air-quality - Aufgabenstellung**
 
-Deklariere die Funktion checkAirQuality() und nutze im Funktionskörper Conditional Statements (if...else):
+Erstelle ein HTML-Formular um mit einem Range-Slider die Luft-Qualität (AQI:air-quality-index) in einem Bereich von 0 bis 150 anzuzeigen. Das Ergebnis soll in HTMl ausgegeben werden und dazu soll jeweils die Hintergrundfarbe vom body angepasst werden.
 
-Assets:
-Bei einer Qualität kleiner-gleich 50 soll das Ergebnis:
-Level of health concern: Good 
-Level of health effect: Little or no risk
+Deklariere die Funktion <b>checkAirQuality()</b> und nutze im Funktionskörper Conditional Statements (if...else):
 
-Bei einer Qualität größer als 50 und kleiner-gleich 100 soll das Ergebnis:
-Level of health concern: Moderate 
-Level of health effect: Acceptable quality
+<b>Assets:</b>
 
-Bei einer Qualität größer als 100 und kleiner-gleich 150 soll das Ergebnis: 
-Level of health concern: Unhealthy for sensitive groups 
-Level of health effect: Generable publics not likely affected
+-   Bei einer Qualität kleiner-gleich 50 soll das Ergebnis:
+    Level of health concern: Good
+    Level of health effect: Little or no risk
 
-Hinweise:
-logical operators - && ( and )
+-   Bei einer Qualität größer als 50 und kleiner-gleich 100 soll das Ergebnis:
+    Level of health concern: Moderate
+    Level of health effect: Acceptable quality
+
+-   Bei einer Qualität größer als 100 und kleiner-gleich 150 soll das Ergebnis:
+    Level of health concern: Unhealthy for sensitive groups
+    Level of health effect: Generable publics not likely affected
+
+<b>Hinweise:</b>
+
+-   <a href="https://www.w3schools.com/js/js_comparisons.asp">logical operators - && ( and )</a>
+
+---
